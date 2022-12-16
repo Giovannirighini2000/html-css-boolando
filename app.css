@@ -29,7 +29,7 @@ a{
 .justify-between{
     justify-content: space-between;
     margin-left: 25px;
-    margin-right: 25px;
+    margin-right: 22px;
     align-items: center;
 }
 .genere{
@@ -40,6 +40,9 @@ a{
 .shop{
     color: white;
     padding-right: 5px;
+
+}
+.log{
 
 }
 .color-main{
@@ -75,4 +78,7 @@ a{
     font-size: 14px;
     text-decoration: line-through;
      
+}
+.log{
+    max-width: 14px;
 }
