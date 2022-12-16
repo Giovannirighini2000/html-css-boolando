@@ -28,13 +28,15 @@ a{
 }
 .justify-between{
     justify-content: space-between;
-    margin-left: 45px;
-    margin-right: 45px;
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
 }
 .genere{
     color: white;
     padding-right: 5px;
 }
+
 .shop{
     color: white;
     padding-right: 5px;
@@ -56,4 +58,7 @@ a{
 }
 .sp{
     margin-right: 15px;
+}
+.marca{
+    font-size: 12px;
 }
