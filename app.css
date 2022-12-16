@@ -43,3 +43,17 @@ a{
 .color-main{
     background-color: #ffffff;
 }
+.container-cards{
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    max-width: 1200px;
+    
+}
+.profilo{
+    max-width: 360px;
+}
+.sp{
+    margin-right: 15px;
+}
