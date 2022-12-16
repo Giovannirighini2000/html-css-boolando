@@ -16,11 +16,11 @@ a{
     max-width: 1200px;
 	margin: 0 auto;
     border: 2px solid #ff6900;
-	padding: 30px;
+	padding: 20px;
     background-color: #ff6900;
 }
 .logo{
-    height: 20px;
+    height: 25px;
 }
 .row{
     display: flex;
@@ -29,4 +29,13 @@ a{
     justify-content: space-between;
     margin-left: 45px;
     margin-right: 45px;
+}
+.genere{
+    color: white;
+    padding-right: 5px;
+}
+.shop{
+    color: white;
+    padding-right: 5px;
+
 }
