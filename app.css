@@ -58,6 +58,8 @@ a{
 }
 .profilo{
     max-width: 360px;
+    position: relative;
+    top: 0px;
 }
 .sp{
     margin-right: 15px;
@@ -81,4 +83,12 @@ a{
 }
 .log{
     max-width: 14px;
+}
+.cuore{
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 1px;
+    right: 0px;
+    padding:4px
+    
 }
