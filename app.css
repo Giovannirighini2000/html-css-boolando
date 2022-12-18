@@ -18,6 +18,8 @@ a{
     border: 2px solid #ff6900;
 	padding: 20px;
     background-color: #ff6900;
+   
+  
 }
 .logo{
     height: 25px;
@@ -29,7 +31,7 @@ a{
 .justify-between{
     justify-content: space-between;
     margin-left: 25px;
-    margin-right: 22px;
+    margin-right: 7px;
     align-items: center;
 }
 .genere{
@@ -42,9 +44,7 @@ a{
     padding-right: 5px;
 
 }
-.log{
 
-}
 .color-main{
     background-color: #ffffff;
 }
@@ -123,4 +123,35 @@ a{
     left: 0px;
     padding: 1px;
 
+}
+.color-footer{
+    background-color: rgb(20, 19, 19);
+    color:#ffffff;
+
+}
+.padding{
+    padding-left: 38px;
+    
+   
+}
+.footer{
+    padding-right: 5px;
+    font-size: 12px;
+}
+.title{
+    font-size: 15px;
+}
+.row{
+   justify-content: space-between;
+
+}
+.end{
+    padding-right: 30px;
+}
+.social{
+   width: 25px;
+}
+.banner{
+    background-color: rgb(20, 19, 19);
+    height: 100px;
 }
