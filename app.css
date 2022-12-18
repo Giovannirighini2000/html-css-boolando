@@ -57,9 +57,7 @@ a{
     
 }
 .profilo{
-    max-width: 360px;
-    position: relative;
-    top: 0px;
+    max-width: 360px;      
 }
 .sp{
     margin-right: 15px;
@@ -85,10 +83,44 @@ a{
     max-width: 14px;
 }
 .cuore{
-    border: 2px solid rgb(0, 0, 0);
+    border: 4px solid #ffffff;
     position: absolute;
-    top: 1px;
+    top: 5px;
     right: 0px;
-    padding:4px
+    padding:5px;
+    background-color: #ffffff;
     
+}
+#relative{
+    position: relative;
+}
+.sconto{
+    border: 4px solid red;
+    color: #ffffff;
+    padding:1px;
+    background-color: red;
+    position: absolute;
+    bottom: 70px;
+    left: 0px;
+
+}
+.sostenibilità{
+    border: 4px solid green;
+    color: #ffffff;
+    background-color: green;
+    position: absolute;
+    bottom: 70px;
+    left: 50px;
+    padding: 1px;
+
+}
+.sostenibilit1{
+    border: 4px solid green;
+    color: #ffffff;
+    background-color: green;
+    position: absolute;
+    bottom: 70px;
+    left: 0px;
+    padding: 1px;
+
 }
