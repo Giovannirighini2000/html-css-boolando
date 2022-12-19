@@ -18,6 +18,10 @@ a{
     border: 2px solid #ff6900;
 	padding: 20px;
     background-color: #ff6900;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+   
    
   
 }
@@ -47,13 +51,16 @@ a{
 
 .color-main{
     background-color: #ffffff;
+    padding-top: 100px;
+
 }
 .container-cards{
     margin-left: 45px;
     margin-right: 45px;
-    margin-top: 25px;
+    
     margin-bottom: 25px;
     max-width: 1200px;
+   
     
 }
 .profilo{
